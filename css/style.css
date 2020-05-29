@@ -1,0 +1,166 @@
+.bg-primary {
+    background-color: #9C27B0!important;
+}
+
+.button-one {
+    margin-top: 15%;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 11px;
+    background-color: red;
+    color: #fff;
+    transition: 1.9s ease;
+}
+
+.button-one:hover {
+    box-shadow: 3px 2px 3px yellow;
+    border-bottom: 2px solid yellow;
+    border-right: 3px solid lightseagreen;
+    background-color: cyan;
+    color: black;
+}
+
+.h1-one {
+    font-size: 31px;
+}
+
+.sec-one {
+    background-color: #17C2A4;	
+}
+
+.htwo {
+    text-align: center;
+}
+
+.p-two {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 16px;
+}
+
+.img-four {
+    text-align: center;
+    margin-top: 45px;
+}
+
+.sec-two {
+  background-color: #D3D3D3;
+}
+
+.img-s {
+	width: 85%;
+}
+
+.hthree {
+    margin: -42%;
+}
+.ptwon-nin {
+	margin-top: 76%;
+}
+
+.sp-two {
+    width: 29%;
+    border-bottom: 3px solid black;
+    display: block;
+    margin: 35px auto;
+}
+
+.abou-on {
+    margin-top: 43px;
+    margin-bottom: 30px;
+}
+
+.wo-one {
+    margin-top: 42px;
+    font-size: 29px;
+}
+
+.wor-h3 {
+    font-size: 20px;
+    margin-top: 15px;
+    color: #2418d8;
+}
+
+.sec-four {
+	background-color: #FFDD99;
+}
+
+.ptwon-nineee {
+    margin-top: 31px;
+}
+
+ul{
+    list-style: none;
+    margin: 0px 125px;
+}
+ul li {
+    display: inline-block;
+}
+ul li a {
+    display: block;
+    color: black;
+    background-color: #c7ac75;
+    font-size: 20px;
+    padding: 3px 10px;
+    margin: 38px 8px;
+    transition: 2.8s ease;
+}
+
+ul li a:hover {
+	color: #fff;
+	text-decoration: none;
+	background-color: black;
+}
+.dj {
+	margin: 0 auto;
+}
+
+.button-onee {
+    margin-top: 55%;
+    border-radius: 15px;
+    padding: 10px 17px;
+    font-size: 15px;
+    border: none;
+    font-weight: 500;
+    background-color: #e658fb4a;
+    transition: 1.09s ease;
+}
+.button-onee:hover {
+    background-color: #ef7eed80;
+    box-shadow: 4px 5px black;
+    color: #fff;
+}
+.sec-five {
+    background-color: #D74680; 
+}
+.inam {
+    width: 39%;
+    margin: 25px 0px;
+    float: left;
+}
+.persol {
+    margin-top: 67px;
+    font-size: 20px;
+    color: #fff;
+    padding: 12px;	
+}
+.personal-one {
+    color: #fff;
+    font-size: 44px;
+}
+.parsonal-two {
+    margin-left: 20px;
+    float: left;
+    font-size: 21px;
+    color: #d3ec46;
+}
+.a-one {
+    background-color: transparent;
+    border: 1px solid #e9cbcb;
+    color: #fff;
+}
+.a-one:hover {
+    color: black;
+    text-decoration: none;
+    background-color: #32bc7342;
+}
